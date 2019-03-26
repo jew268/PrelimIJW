@@ -17,3 +17,4 @@ Problem 3)
 Problem3order file gives the order of my metabolites in my S matrix.
 Problem3main maximizes translation rate.
 Prblem3 matrices gives my S matrix.
+Problem3C shows the most sensitve to fluxes.
