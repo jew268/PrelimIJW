@@ -15,3 +15,5 @@ Problem 1 P1 inlcudes problem 1 and supporting information for problem 2.
 
 Problem 3)
 Problem3order file gives the order of my metabolites in my S matrix.
+Problem3main maximizes translation rate.
+Prblem3 matrices gives my S matrix.
